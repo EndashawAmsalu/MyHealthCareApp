@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/broadcast"
+        android:title="@string/broadcast"
+        app:showAsAction="never"/>
+    <item android:id="@+id/service"
+        android:title="@string/service"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/internet"
+        android:title="@string/checkInternet"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/exit"
+        android:title="@string/menu_exit"
+        app:showAsAction="never"/>
+
+</menu>

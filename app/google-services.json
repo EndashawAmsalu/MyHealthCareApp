@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914481053280",
+    "firebase_url": "https://myhealthcareapp-72771.firebaseio.com",
+    "project_id": "myhealthcareapp-72771",
+    "storage_bucket": "myhealthcareapp-72771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914481053280:android:cc5ed911cec34f22",
+        "android_client_info": {
+          "package_name": "com.example.endesh.myhealthcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914481053280-89vdocdafbneai1a23tra93167vd7cch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.endesh.myhealthcareapp",
+            "certificate_hash": "e4c9db216f3f5bebfbe6aa81a68584b3b23b7934"
+          }
+        },
+        {
+          "client_id": "914481053280-dpt55dpkahonts40jrg0pgihr1rgmscr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEUd3gVxRtGTUfzkZh3XnQIk3Jpl6T3dI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914481053280-dpt55dpkahonts40jrg0pgihr1rgmscr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

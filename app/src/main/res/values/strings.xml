@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">My HealthCareApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_note">Add Note</string>
+    <string name="save">Save</string>
+    <string name="saved">Note Saved</string>
+    <string name="not_saved">Couldn\'t save</string>
+    <string name="no_note">No Note</string>
+    <string name="updated">Note Updated</string>
+    <string name="back">Go to home screen</string>
+    <string name="exit">Exit</string>
+    <string name="search">search</string>
+    <string name="reference">Healthcare Reference</string>
+    <string name="note">Take Note</string>
+    <string name="welcome">WELCOME TO JUST IN
+                    TIME LEARNING APP</string>
+    <string name="document">Go to document</string>
+    <string name="labelHome">Health</string>
+    <string name="broadcast">Set an Alarm Time</string>
+    <string name="service">Check an Alarm Ringtone</string>
+    <string name="title_multi_purpose">Multi Purpose Health Care App</string>
+    <string name="regstrn">Patient Registration Form</string>
+    <string name="doc_help">Health Care Help From Document</string>
+    <string name="btn_note">Take Short Note</string>
+    <string name="internet_help">Health Care Help From Internet</string>
+    <string name="btn_update">Update</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="edt_txt_email">Enter email</string>
+    <string name="edt_txt_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_create_acc">Create Account</string>
+    <string name="btn_setAlarm">Set Alarm</string>
+    <string name="btn_stop_alarm">Stop Alarm</string>
+    <string name="btn_start_service">Start Service</string>
+    <string name="btn_stop_service">Stop Service</string>
+    <string name="edtxt_firstName">Enter Firstname</string>
+    <string name="edtxt_lastName">Enter Lastname</string>
+    <string name="edtxt_enterEmail">Enter Email</string>
+    <string name="edtxt_enterPass">Enter Password</string>
+    <string name="edtxt_confPass">Confirm Password</string>
+    <string name="btn_createAcc">Create Account</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="menu_exit">Exit</string>
+    <string name="checkInternet">Health care help from Internet</string>
+    <string name="txt_diagnosis_detail">Diagnosis Detail</string>
+    <string name="edtxt_diagnosis_detail">enter diagnosis detail</string>
+    <string name="txt_age">Age</string>
+    <string name="edtxt_enter_age">enter age</string>
+    <string name="btb_patient_name">Patient Name</string>
+    <string name="edtxt_patient_name">take from contact or write full @string/app_name</string>
+    <string name="btn_update2">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_retrieve">Retrieve</string>
+    <string name="btn_adddata">AddData</string>
+    <string name="btn_enter_id">Enter ID if you want to delete from database</string>
+    <string name="edtxt_update_note">Update Note</string>
+    <string name="switch_wifi_off">WIFI_OFF!</string>
+
+
+</resources>
